@@ -1,5 +1,4 @@
-version:  '3'
-kind:  namespace
-metadata:  
- name:  testing
---validate=false
+kind: namespace
+metadata: 
+  name: "testing --validate=false"
+version: "3"
