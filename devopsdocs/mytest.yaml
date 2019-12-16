@@ -2,3 +2,4 @@ version:  '3'
 kind:  namespace
 metadata:  
  name:  testing
+--validate=false
